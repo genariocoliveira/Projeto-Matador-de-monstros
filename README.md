@@ -1,2 +1,3 @@
-# Projeto-Matador-de-mostros
-Um jogo desenvolvido em VusJS.
+# Matador de monstros
+
+Um projeto desenvolvido durante o curso de VueJs, ministrado pelo professor Leonardo Leitão.
